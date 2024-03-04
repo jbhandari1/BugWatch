@@ -1,0 +1,2 @@
+Flask==2.2.2
+sqlitedict==2.0.0
